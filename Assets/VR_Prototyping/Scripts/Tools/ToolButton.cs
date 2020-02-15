@@ -1,7 +1,6 @@
 ﻿using DG.Tweening;
-using Leap.Unity.Infix;
+//using Leap.Unity.Infix;
 using Sirenix.OdinInspector;
-using Sirenix.Utilities;
 using UnityEngine;
 
 namespace VR_Prototyping.Scripts.Tools
